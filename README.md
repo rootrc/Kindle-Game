@@ -7,6 +7,8 @@ Started in 2023, completed in 2025
 
 Rules are located inside the game
 
+![Example Photo](https://github.com/rootrc/Kindle-Game/blob/main/Figure%201.png)
+
 To run the game, either download the zip file of the code or clone the repository, then run src/App.java
 
 Known Bugs: 
